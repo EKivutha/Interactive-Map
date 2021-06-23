@@ -5,21 +5,21 @@
 For greater insight about dataset you may visit [here](https://www.kaggle.com/c/predicting-cab-booking-cancellations/data) 
 Apart from uploading your own dataset you can also proceed by clicking `USE DUMMY DATA` button.
 <p align="center">
-  <img src="https://github.com/gerkibz/Interactive-Map/blob/master/upload.PNG" width="800">
+  <img src="https://github.com/gerkibz/Interactive-Map/blob/main/upload.PNG" width="800">
 </p>
 
 
 * After uploading the suitable `.csv` file. Your screen would seem quite similar to as shown below. 
 You may click `SHOW CHARTS` button (located in top right corner) in order to see the charts.
 <p align="center">
-  <img src="https://github.com/gerkibz/Interactive-Map/blob/master/first_preview.PNG" width="800">
+  <img src="https://github.com/gerkibz/Interactive-Map/blob/main/first_preview.PNG" width="800">
 </p>
 
 
 * After you'll clicked the button. You can also filter content by clicking on individual bars. 
 Now in case you wish to revert back to unfiltered state, you can do that by clicking the `UNDO` button (located below `SHOW CHARTS` button).
 <p align="center">
-  <img src="https://github.com/gerkibz/Interactive-Map/blob/master/filtered_preview.PNG" width="800">
+  <img src="https://github.com/gerkibz/Interactive-Map/blob/main/filtered_preview.PNG" width="800">
 </p>
 
 
